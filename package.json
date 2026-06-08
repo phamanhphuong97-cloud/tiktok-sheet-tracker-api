@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-tracker-api",
+  "version": "1.0.0",
+  "description": "TikTok Tracker Serverless Scraper API",
+  "main": "api/scrape.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
